@@ -1,0 +1,15 @@
+{
+    "name": "Python JSON Formatter",
+    "version": "1.0",
+    "description": "A simple JSON formatter and validator",
+    "author": "Developer",
+    "features": [
+        "JSON Validation",
+        "JSON Formatting",
+        "File Export"
+    ],
+    "settings": {
+        "language": "Python",
+        "active": true
+    }
+}
