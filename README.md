@@ -82,4 +82,3 @@ Enter JSON file path: sample.json
 **Kinervaaa**
 
 GitHub: https://github.com/pradipta-web
-```
